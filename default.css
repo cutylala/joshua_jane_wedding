@@ -252,7 +252,7 @@ img {
 	color: #999;
 	background: #fff;
 	overflow: hidden;
-    background-image: url(../images/bg2.jpg);
+    background-image: url(bg2.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
